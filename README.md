@@ -4,5 +4,4 @@
 
 ## Dependencies
 Dependent python packages：
--tensorflow
--pymatgen
+
